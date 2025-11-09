@@ -1,0 +1,173 @@
+{
+  "value": "Does it live mostly on land?",
+  "yes": {
+    "value": "Does it have fur or hair?",
+    "yes": {
+      "value": "Is it a household companion?",
+      "yes": {
+        "value": "Is it loyal and social?",
+        "yes": {
+          "value": "Dog",
+          "yes": null,
+          "no": null
+        },
+        "no": {
+          "value": "Cat",
+          "yes": null,
+          "no": null
+        }
+      },
+      "no": {
+        "value": "Is it small and usually kept in cages?",
+        "yes": {
+          "value": "Hamster",
+          "yes": null,
+          "no": null
+        },
+        "no": {
+          "value": "Doest it live in forest",
+          "yes": {
+            "value": "wolf",
+            "yes": null,
+            "no": null
+          },
+          "no": {
+            "value": "Rabbit",
+            "yes": null,
+            "no": null
+          }
+        }
+      }
+    },
+    "no": {
+      "value": "Does it have feathers?",
+      "yes": {
+        "value": "Is it colorful or can mimic sounds?",
+        "yes": {
+          "value": "Parrot",
+          "yes": null,
+          "no": null
+        },
+        "no": {
+          "value": "Canary",
+          "yes": null,
+          "no": null
+        }
+      },
+      "no": {
+        "value": "Is it raised for food or eggs?",
+        "yes": {
+          "value": "Chicken",
+          "yes": null,
+          "no": null
+        },
+        "no": {
+          "value": "Duck",
+          "yes": null,
+          "no": null
+        }
+      }
+    }
+  },
+  "no": {
+    "value": "Does it live mainly in water?",
+    "yes": {
+      "value": "Does it have fins?",
+      "yes": {
+        "value": "Is it colorful and small?",
+        "yes": {
+          "value": "Goldfish",
+          "yes": null,
+          "no": null
+        },
+        "no": {
+          "value": "It have big tooth?",
+          "yes": {
+            "value": "Shark",
+            "yes": null,
+            "no": null
+          },
+          "no": {
+            "value": "Koi Carp",
+            "yes": null,
+            "no": null
+          }
+        }
+      },
+      "no": {
+        "value": "Is it slow-moving?",
+        "yes": {
+          "value": "Turtle",
+          "yes": null,
+          "no": null
+        },
+        "no": {
+          "value": "Frog",
+          "yes": null,
+          "no": null
+        }
+      }
+    },
+    "no": {
+      "value": "Does it have scales or a shell?",
+      "yes": {
+        "value": "Does it have legs?",
+        "yes": {
+          "value": "Can it change color?",
+          "yes": {
+            "value": "Chameleon",
+            "yes": null,
+            "no": null
+          },
+          "no": {
+            "value": "Lizard",
+            "yes": null,
+            "no": null
+          }
+        },
+        "no": {
+          "value": "Moves by slithering?",
+          "yes": {
+            "value": "Snake",
+            "yes": null,
+            "no": null
+          },
+          "no": {
+            "value": "Tortoise",
+            "yes": null,
+            "no": null
+          }
+        }
+      },
+      "no": {
+        "value": "Is it an insect?",
+        "yes": {
+          "value": "Has colorful wings?",
+          "yes": {
+            "value": "Butterfly",
+            "yes": null,
+            "no": null
+          },
+          "no": {
+            "value": "Bee",
+            "yes": null,
+            "no": null
+          }
+        },
+        "no": {
+          "value": "Has many legs?",
+          "yes": {
+            "value": "Spider",
+            "yes": null,
+            "no": null
+          },
+          "no": {
+            "value": "Ant",
+            "yes": null,
+            "no": null
+          }
+        }
+      }
+    }
+  }
+}
